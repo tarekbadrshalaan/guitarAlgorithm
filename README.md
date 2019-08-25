@@ -1,0 +1,2 @@
+# guitarAlgorithm
+calculate fret positions
